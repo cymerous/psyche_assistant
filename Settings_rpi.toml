@@ -1,0 +1,4 @@
+# To wrzucisz na RPi
+piper_path = "/home/pi/piper_tts/piper/piper"
+piper_model = "/home/pi/piper_tts/pl_PL-gosia-medium.onnx"
+mqtt_ip = "localhost"

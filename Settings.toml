@@ -1,0 +1,4 @@
+piper_path = "./piper/piper.exe"
+piper_model = "./piper/piper_models/pl_PL-angel-medium.onnx"
+ollama_url = "http://localhost:11434/api/generate"
+ollama_model = "qwen2.5:3b"
